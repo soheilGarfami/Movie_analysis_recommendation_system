@@ -8,10 +8,10 @@ In this project, we will be working with a movie dataset to clean, analyze, and 
 
 This project contains two Python notebooks:
 
-1. **[data_cleaning_Analysis.ipynb](data_cleaning_Analysis.ipynb):**  
+1. **[data_cleaning_Analysis.ipynb](1_data_cleaning_Analysis.ipynb):**  
    In this notebook, we clean the data, explore the datasets, and perform analysis and visualization to uncover insights.
 
-2. **[prediction_models.ipynb](prediction_models.ipynb):**  
+2. **[prediction_models.ipynb](2_prediction_models.ipynb):**  
    This notebook focuses on building prediction models and creating recommendations. We will explore and compare five different recommendation techniques:
    * Similarity between users
    * Correlation-based filtering
