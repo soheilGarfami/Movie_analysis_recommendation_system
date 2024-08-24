@@ -1,6 +1,6 @@
 # Movie Analysis and Recommendation System
 
-In this project, we will clean and analyze movie datasets using Python, followed by the implementation of various recommendation systems.
+In this project, we will be working with a movie dataset to clean, analyze, and gain insights from the data. Following this, we will implement and explore various types of recommendation systems to generate predictions. Our goal is to understand and compare the effectiveness of different recommendation algorithms in providing personalized movie suggestions.
 
 <img src="img/whatching.jpg"/> 
 
@@ -28,7 +28,7 @@ In this project, two different versions of movie datasets were used and combined
 * **Ratings Datasets:** `rating1`, `rating2`
 * **Movies Datasets:** `movie1`, `movie2`
 
-The datasets were sourced from [Kaggle.com](link).
+The datasets were sourced from [Kaggle.com](https://www.kaggle.com/).
 
 ## What Are Recommendation Systems?
 
